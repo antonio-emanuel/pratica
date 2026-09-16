@@ -1,0 +1,8 @@
+print('===Exercicio 04===')
+n=input('Digite qualquer coisa:')
+print('E um numero ? ',n.isdecimal())
+print('E uma letra ? ',n.isalpha())
+print('E letra maiscula ? ',n.isupper())
+print('E uma letra minuscula ? ',n.islower())
+print('E um espaco ? ',n.isspace())
+print('E um alfanumerico ? ',n.isalnum())

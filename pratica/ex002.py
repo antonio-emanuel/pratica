@@ -1,0 +1,5 @@
+print('===Exercicio 02====')
+dia=input('Digita o dia:')
+mes=input('Digite o mes:')
+ano=input('Digite o ano:')
+print(' A tua data de Aniversario e ',dia , mes ,ano )
